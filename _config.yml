@@ -8,14 +8,11 @@ linkedin_username: andreja-babic-9901144
 github_username:  dnabic
 
 # Build settings
-sass:
-  sass_dir: _sass
-kramdown:
-  input: GFM
 theme: jekyll-theme-architect
 include: ['_pages']
 plugins:
   - jekyll-feed
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
