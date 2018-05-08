@@ -10,9 +10,9 @@ linkedin_username: andreja-babic-9901144
 github_username:  dnabic
 
 # Build settings
-#theme: jekyll-theme-architect
+theme: jekyll-theme-architect
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
