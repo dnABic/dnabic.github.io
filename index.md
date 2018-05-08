@@ -1,6 +1,10 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: page
+title: About me
+subtitle:
 ---
+
+My name is Andreja Babic. I am Backend Software Developer and DevOps Engineer based in Munich, Germany. Currently working as Freelancer with focus on Cloud Architecture, Distributed Systems and Continuous Integration and Delivery.
+
+For detailed information of my expertise, please check my [LinkedIn](https://linkedin.com/in/andreja-babic-9901144) and [GitHub](https://github.com/dnabic) account.
+
